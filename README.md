@@ -1,12 +1,16 @@
-# 📝 To-Do-App (Flutter)
+# to_do_app
 
-A simple and intuitive to-do list application built with Flutter, designed with a classic yellow notepad theme for a familiar look and feel.
+A new Flutter project.
 
-Features:
-	•	➕ Add Tasks: Quickly create and add new tasks to your list.
-	•	✅ Mark as Complete: Tap on a task to mark it as done, helping you track progress.
-	•	🗑️ Delete with Swipe: Swipe left on any task to reveal a delete button, making task removal easy and smooth.
-	•	🗂️ Local Data Storage with Hive: Uses Hive, a lightweight NoSQL database for Flutter, to store tasks efficiently and persist data across app launches.
-	•	🎨 Clean Notepad-Inspired UI: Minimalist yellow notepad design for a nostalgic and simple experience.
+## Getting Started
 
-This app focuses on providing a lightweight, user-friendly task management solution, with persistent offline storage powered by Hive, perfect for everyday use.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
