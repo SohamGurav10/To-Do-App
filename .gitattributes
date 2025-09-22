@@ -1,0 +1,11 @@
+# Tell GitHub Linguist to not count these as repo languages
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+web/** linguist-vendored
+
+# Ignore CMake files
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
